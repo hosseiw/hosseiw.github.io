@@ -5,7 +5,7 @@
   Hossein Araby (hosseiw)
 </h1>
 
-<h4 align="center">This is Araby! A junior front end developer, also known as hosseiw!</h4>
+<h4 align="center">This is Hossein! A junior front end developer, also known as hosseiw!</h4>
 
 ## My expertise
 
