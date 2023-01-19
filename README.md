@@ -1,4 +1,6 @@
-<title>Hossein Araby</title>
+<head>
+  <title>Hossein Araby</title>
+ </head>
 <h1 align="center">
   <br>
   <a href="https://hosseiw.ir"><img src="./logo.png" alt="hosseinaraby" width="200"></a>
